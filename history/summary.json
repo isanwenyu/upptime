@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 2067,
-    "timeDay": 2067,
-    "timeWeek": 2067,
-    "timeMonth": 2067,
-    "timeYear": 2067,
+    "time": 1330,
+    "timeDay": 1330,
+    "timeWeek": 1330,
+    "timeMonth": 1330,
+    "timeYear": 1330,
     "dailyMinutesDown": {}
   },
   {
@@ -28,11 +28,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 7745,
-    "timeDay": 7745,
-    "timeWeek": 7745,
-    "timeMonth": 7745,
-    "timeYear": 7745,
+    "time": 4102,
+    "timeDay": 4102,
+    "timeWeek": 4102,
+    "timeMonth": 4102,
+    "timeYear": 4102,
     "dailyMinutesDown": {}
   },
   {
@@ -41,18 +41,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/gemini-pro.fly.dev.ico",
     "slug": "gemini-pro",
     "status": "down",
-    "uptime": "8.97%",
-    "uptimeDay": "8.97%",
-    "uptimeWeek": "8.97%",
-    "uptimeMonth": "8.97%",
-    "uptimeYear": "8.97%",
-    "time": 813,
-    "timeDay": 813,
-    "timeWeek": 813,
-    "timeMonth": 813,
-    "timeYear": 813,
+    "uptime": "0.00%",
+    "uptimeDay": "0.00%",
+    "uptimeWeek": "0.00%",
+    "uptimeMonth": "0.00%",
+    "uptimeYear": "0.00%",
+    "time": 565,
+    "timeDay": 565,
+    "timeWeek": 565,
+    "timeMonth": 565,
+    "timeYear": 565,
     "dailyMinutesDown": {
-      "2024-01-13": 0
+      "2024-01-14": 29,
+      "2024-01-13": 488
     }
   },
   {
@@ -66,11 +67,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 2,
-    "timeDay": 2,
-    "timeWeek": 2,
-    "timeMonth": 2,
-    "timeYear": 2,
+    "time": 3,
+    "timeDay": 3,
+    "timeWeek": 3,
+    "timeMonth": 3,
+    "timeYear": 3,
     "dailyMinutesDown": {}
   }
 ]
