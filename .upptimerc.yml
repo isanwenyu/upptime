@@ -10,6 +10,10 @@ sites:
   - name: Gemini Pro
     url: https://gemini-pro.fly.dev
     method: GET
+    expectedStatusCodes:
+      - 200
+      - 421
+      - 404
   - name: Google DNS
     check: "tcp-ping"
     url: 8.8.4.4
