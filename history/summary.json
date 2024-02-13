@@ -22,7 +22,7 @@
     "url": "https://one-gpt.fly.dev",
     "icon": "https://icons.duckduckgo.com/ip3/one-gpt.fly.dev.ico",
     "slug": "one-gpt",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -33,7 +33,9 @@
     "timeWeek": 1324,
     "timeMonth": 2295,
     "timeYear": 2295,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-02-13": 0
+    }
   },
   {
     "name": "Gemini Pro",
@@ -41,11 +43,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/gemini-pro.fly.dev.ico",
     "slug": "gemini-pro",
     "status": "up",
-    "uptime": "86.91%",
+    "uptime": "86.96%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "86.91%",
-    "uptimeYear": "86.91%",
+    "uptimeMonth": "86.93%",
+    "uptimeYear": "86.96%",
     "time": 637,
     "timeDay": 352,
     "timeWeek": 568,
