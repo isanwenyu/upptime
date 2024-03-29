@@ -7,13 +7,6 @@ sites:
     url: https://emilygpt.fly.dev
   - name: One GPT
     url: https://one-gpt.fly.dev
-  - name: Gemini Pro
-    url: https://gemini-pro.fly.dev
-    method: GET
-    expectedStatusCodes:
-      - 200
-      - 421
-      - 404
   - name: Google DNS
     check: "tcp-ping"
     url: 8.8.4.4
