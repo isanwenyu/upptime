@@ -4,10 +4,10 @@
     "url": "https://emilygpt.fly.dev",
     "icon": "https://icons.duckduckgo.com/ip3/emilygpt.fly.dev.ico",
     "slug": "emily-gpt",
-    "status": "up",
+    "status": "down",
     "uptime": "99.69%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.96%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.69%",
     "time": 1009,
@@ -16,6 +16,7 @@
     "timeMonth": 949,
     "timeYear": 1009,
     "dailyMinutesDown": {
+      "2024-06-04": 1,
       "2024-04-12": 407,
       "2024-03-19": 91,
       "2024-03-18": 138
@@ -26,7 +27,7 @@
     "url": "https://one-gpt.fly.dev",
     "icon": "https://icons.duckduckgo.com/ip3/one-gpt.fly.dev.ico",
     "slug": "one-gpt",
-    "status": "up",
+    "status": "down",
     "uptime": "98.91%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -38,6 +39,7 @@
     "timeMonth": 1595,
     "timeYear": 1917,
     "dailyMinutesDown": {
+      "2024-06-04": 0,
       "2024-04-12": 405,
       "2024-03-19": 92,
       "2024-03-18": 149,
