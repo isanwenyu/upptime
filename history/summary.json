@@ -6,9 +6,9 @@
     "slug": "emily-gpt",
     "status": "up",
     "uptime": "99.69%",
-    "uptimeDay": "99.64%",
-    "uptimeWeek": "99.95%",
-    "uptimeMonth": "99.99%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "99.69%",
     "time": 992,
     "timeDay": 494,
@@ -16,7 +16,6 @@
     "timeMonth": 892,
     "timeYear": 992,
     "dailyMinutesDown": {
-      "2024-06-04": 5,
       "2024-04-12": 407,
       "2024-03-19": 91,
       "2024-03-18": 138
