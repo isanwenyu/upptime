@@ -27,7 +27,7 @@
     "url": "https://one-gpt.fly.dev",
     "icon": "https://icons.duckduckgo.com/ip3/one-gpt.fly.dev.ico",
     "slug": "one-gpt",
-    "status": "up",
+    "status": "down",
     "uptime": "99.43%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -39,6 +39,7 @@
     "timeMonth": 3731,
     "timeYear": 2333,
     "dailyMinutesDown": {
+      "2024-10-22": 0,
       "2024-09-01": 56,
       "2024-07-28": 38,
       "2024-04-12": 405,
